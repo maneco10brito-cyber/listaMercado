@@ -1,0 +1,14 @@
+C:\listaMercado\obj\Debug\net10.0\listaMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\listaMercado\obj\Debug\net10.0\listaMercado.AssemblyInfoInputs.cache
+C:\listaMercado\obj\Debug\net10.0\listaMercado.AssemblyInfo.cs
+C:\listaMercado\obj\Debug\net10.0\listaMercado.csproj.CoreCompileInputs.cache
+C:\listaMercado\bin\Debug\net10.0\listaMercado.exe
+C:\listaMercado\bin\Debug\net10.0\listaMercado.deps.json
+C:\listaMercado\bin\Debug\net10.0\listaMercado.runtimeconfig.json
+C:\listaMercado\bin\Debug\net10.0\listaMercado.dll
+C:\listaMercado\bin\Debug\net10.0\listaMercado.pdb
+C:\listaMercado\obj\Debug\net10.0\listaMercado.dll
+C:\listaMercado\obj\Debug\net10.0\refint\listaMercado.dll
+C:\listaMercado\obj\Debug\net10.0\listaMercado.pdb
+C:\listaMercado\obj\Debug\net10.0\listaMercado.genruntimeconfig.cache
+C:\listaMercado\obj\Debug\net10.0\ref\listaMercado.dll
